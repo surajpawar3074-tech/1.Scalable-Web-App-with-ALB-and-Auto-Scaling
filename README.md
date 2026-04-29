@@ -75,3 +75,6 @@ The application is successfully running and accessible through the **Application
 <img width="543" height="94" alt="Picture7" src="https://github.com/user-attachments/assets/cae6f6c9-cc53-4f4c-aaeb-382159d1e7fe" />
 <img width="542" height="99" alt="Picture8" src="https://github.com/user-attachments/assets/f7ef03e0-f59c-40fc-a26a-8e73b18c3fc3" />
 
+
+## Conclusion
+This project successfully demonstrates a **scalable and fault-tolerant cloud architecture** using AWS services.
